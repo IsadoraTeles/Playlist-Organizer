@@ -2,7 +2,7 @@
 
 **Sort Spotify playlists by tempo, key, and energy for smoother flow — built for house parties, workouts, and DJ prep.**
 
-![Screenshot](/snapshot.png)
+![Screenshot](/0001.png)
 
 ---
 
