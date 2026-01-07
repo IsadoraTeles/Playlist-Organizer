@@ -1,4 +1,4 @@
-# 🎵 Playlist BPM Sorter
+# 🎵 Playlist Organizer
 
 **Sort Spotify playlists by tempo, key, and energy for smoother flow — built for house parties, workouts, and DJ prep.**
 
