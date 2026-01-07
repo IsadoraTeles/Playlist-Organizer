@@ -321,7 +321,7 @@ function App() {
   if (!token) {
     return (
       <div className="container login-screen">
-        <h1>Playlist BPM Sorter</h1>
+        <h1>Playlist Organizer :))</h1>
         <p>Login to start analyzing your mixes.</p>
         <button className="btn-primary" onClick={handleLogin}>Login with Spotify</button>
       </div>
